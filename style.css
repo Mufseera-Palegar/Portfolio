@@ -11,7 +11,7 @@ P{
 
 .start{
     display: flex;
-    height: 100vh;
+    /* height: 100vh; */
     padding: 2px;
     margin: 20px;
     margin-bottom: 40px;
@@ -268,4 +268,5 @@ h2{
 }
 .contact-box a:focus{
     outline:none;
+
 }
